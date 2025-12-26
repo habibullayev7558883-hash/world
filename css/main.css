@@ -393,7 +393,7 @@ padding-bottom: 4px;
 
 
 
-@media (max-width: 375px){
+@media (0<width<567px){
     
     .container{
         width: 363px;
